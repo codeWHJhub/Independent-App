@@ -1,0 +1,68 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+span{
+    letter-spacing: 1px;
+}
+
+.bottom{
+    color: red;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+
+
+span{
+    color: red;
+}
+.google_lens{
+    color: black;
+}
+
+
+
+h1{
+    font-size: 19px;
+    font-weight:bold;
+    color: rebeccapurple;
+}
+
+.travel_mainDiv {
+
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+
+.travel_maindiv img {
+    width: 100%;
+    height:300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin-left: 20px;
+}
+
